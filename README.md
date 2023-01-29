@@ -14,6 +14,7 @@ Contributions and suggestions about how to improve the blog are welcome!
 If you want to support my work you can do it with the links below.
 Choose what you find more suitable for you:
 - [Support me on GitHub](https://github.com/sponsors/Airscripts)
+- [Support me via ko-fi](https://ko-fi.com/airscript)
 - [Support me via linktr.ee](https://linktr.ee/airscript)
 
 ## 💳 License
