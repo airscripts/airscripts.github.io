@@ -3,9 +3,9 @@ This repository contains source code and content of my learning experiments host
 
 ## 📦 Installation  
 1. Clone this repository: 
-    ```bash
-    git clone https://github.com/Airscripts/blog.airscript.it.git
-    ```
+```bash
+git clone https://github.com/Airscripts/airscripts.github.io.git
+```
 
 ## 🤝 Contributing  
 Contributions and suggestions about how to improve the blog are welcome!  
@@ -19,4 +19,4 @@ Choose what you find more suitable for you:
 Thank you so much, it means a lot for me!
 
 ## 💳 License  
-This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/blog.airscript.it/blob/main/LICENSE).
+This repository is licensed under [GPL-3.0 License](https://github.com/Airscripts/airscripts.github.io/blob/main/LICENSE).
